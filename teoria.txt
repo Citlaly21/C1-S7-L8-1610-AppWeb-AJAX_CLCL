@@ -1,0 +1,47 @@
+# PDO 
+La extension PDO (PHP DATA OBJECTS)
+
+
+
+#ATAQUES XSS (CROSS-SITE SCRIPTING)
+OCURRE CUANDO UN ATACANTE ES CAPAZ DE INYECTAR UN SCRIPT, NORMALMENTA LLAMA A SCRIPT EN EL OUTPUT DE UNA APLICACION WEB
+DE FORMA QUE SE EJECUTAN EN EL NAVEGADOR DEL CLIENTE. LOS ATAQUES SE PRODUCEN PRINCIPALMENTE POR VALIDAR 
+INCORRECTAMENTE DATOS DEL USUARIO, Y SE SUELEN INYECTAR MEDIANTE UN FORMULARIO WEB O MEDIANTE UN ENZALACE
+ALTERADO
+
+#<script>alert("TU APLICACION WEB HA SIDO HACKEADA, DEPOSITAME Y TE LIBERO")</script>
+
+#<script>setInterval(function(){alert("TU APLICACION WEB HA SIDO HACKEADA, DEPOSITAME Y TE LIBERO")})</script>
+
+# Para buscar el registro en la base de datos, realizarlo por un Procedimiento almacenaado
+
+# preg_match
+# preg_match -Manual -PHP
+#php.net/manual/es/function.preg-match.php
+
+#expresiones regulares en google
+#Expresiones regulares en php - Diego lazaro
+
+# evitar cerrar php formalmente
+<?php
+
+?>
+#cross-site Request Forgeries
+# Estos ataques son comumnet llamados CSRF, se producen cuando e atacante provoca que el usuario ejecute una accion nointencionada a un a aplicacion en la que habia inciado sesion
+
+cualquiera accion que pueda realizar un usuario cuando esta logueado en un sitio web, en el que puede realizar tambien el atacante, ya sea actualizar su 0perfil, añadir objetos a la cesta de compras, postear mensajes sin un foro, o cambia imagenes triple o cualquier otra cosa
+
+
+
+
+
+
+
+
+
+
+sucede cuando un atacante intenta meter codigo sql, fuerza esa swcuenciz, borrando tablas o extraer informacion privada como contraseñas
+ El codigo fuente se puede inserta directamente desde un input  o aplicación we, puede ser munipslim
+ 
+
+ cuando la inyeccion se produce oelmwik
